@@ -3,5 +3,5 @@
 nota = int(input("Nota: "))
 if nota >= 90:
     print("A")
-else nota >= 80:
+else:
     print("B")
